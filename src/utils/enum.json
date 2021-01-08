@@ -1,0 +1,9 @@
+{
+  "Pending": "pending",
+  "Accepted": "accepted",
+  "DefaultStatus": "pending",
+  "Status": ["pending", "accepted", "resolved", "rejected"],
+  "Filter": ["status", "from", "to", "limit", "skip", "sortBy"],
+  "FieldsForUpdate": ["status"],
+  "FieldsForCreate": ["title", "description", "status", "contacts"]
+}
